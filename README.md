@@ -2,20 +2,15 @@
 
 Research on distributed systems, consensus algorithms, and scalable computing.
 
-## Projects
+## Status: Maintenance Mode 🟡
 
-### 1. Consensus Algorithms
-- Raft implementation
-- Paxos tutorial
-- Byzantine fault tolerance
+This repository is in **maintenance mode**. No active development unless dependencies appear in other projects.
 
-### 2. Distributed Messaging
-- Message queue implementations
-- Pub/Sub systems
+## Implemented
 
-### 3. Distributed Storage
-- Distributed databases
-- Consensus-based storage
+### ✅ Raft Consensus
+- Basic Raft implementation
+- See `raft/raft.py`
 
 ---
 
